@@ -1,1 +1,2 @@
-Hello les amis je suis beau test de u merge
+Hello les amis je suis beau test du merge
+je veux tester le conflit du merge
